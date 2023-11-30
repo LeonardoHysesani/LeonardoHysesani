@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming, physics, and business.
 - 🌱 I’m currently studying Computer Science.
 - 💞️ I’m looking to collaborate on any project that I find interesting.
-- 📫 How to reach me: lhysesani@gmail.com or https://www.linkedin.com/in/leonardo-hysesani
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=LeonardoHysesani&style=plastic">
